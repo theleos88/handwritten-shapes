@@ -4,6 +4,8 @@ Set of vectorial handwritten shapes to make design, graphics, schemes.
 
 ![Example](./example.png?raw=true "This is an example")
 
+![Axis](./example-exports/xy-axis.png?raw=true "This is an xy axis from an export")
+
 
 ## How to do it
 

@@ -1,5 +1,7 @@
 # handwritten-shapes
 Set of vectorial handwritten shapes to make design, graphics, schemes.
+(Check after images for how to do it)
+
 
 
 ![Example](./example.png?raw=true "This is an example")
